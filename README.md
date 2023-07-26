@@ -1,1 +1,1 @@
-# Pizza-Sales-Analysis
+Welcome to the Exploratory Data Analysis (EDA) project! This repository contains a comprehensive analysis of Pizza Sales using Excel, aimed at uncovering valuable insights and patterns within the data. Explore my interactive visualizations and descriptive statistics to gain a deeper understanding of the subject matter.
